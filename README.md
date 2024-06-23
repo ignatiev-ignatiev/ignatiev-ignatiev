@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 # Мое резюме:
 [Резюме]()
 
-# Учебные проекты:
-## Курсовые работы:
+# Проекты:
+## Работы:
 <details open>
   <summary>Список проектов по теме</summary>
 <table>
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
     <td><a href = "https://github.com/">Анализ рейтинга и успешности игровых жанров</a></td>
  
   <td>Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании </td>
-  <td>Стек </td>
+  <td>python, pandas, matplotlib, seaborn, scipy</td>
 </tr>
 
 <tr>
@@ -99,9 +99,14 @@ You can click the Preview link to take a look at your changes.
   <td><a href = "https://github.com/">Прогнозирование заказов такси</a></td>
  
   <td>Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.</td>
-  <td>Стек </td>
+  <td>python, pandas, matplotlib, scikit-learn, catboost, prophet </td>
 </tr>
-
+<tr>
+  <td><a href = "https://github.com/">Определение стоимости автомобилей</a></td>
+ 
+  <td>Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.</td>
+  <td>python, pandas, scikit-learn, pipeline, catboost, lightgbm, numpy </td>
+</tr>
 <tr>
   <td><a href = "https://github.com/">Выбор локации для скважины</a></td>
   
