@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-    <td><a href = "(https://github.com/ignatiev-ignatiev/YAmusic)">Яндекс.Музыка</a></td>
+    <td><a href = "https://github.com/ignatiev-ignatiev/YAmusic">Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов</a></td>
   
   <td>На данных Яндекс.Музыки вы сравните поведение пользователей двух столиц</td>
   <td>python, pandas </td>
