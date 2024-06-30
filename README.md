@@ -60,10 +60,10 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/">Исследование надёжности заёмщиков</a></td>
+    <td><a href = "https://github.com/ignatiev-ignatiev/zaim">Исследование надёжности заёмщиков</a></td>
  
   <td>Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
-  <td>Стек </td>
+  <td>python, pandas</td>
 </tr>
 
 <tr>
