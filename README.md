@@ -122,10 +122,10 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/">Защита персональных данных клиентов</a></td>
+  <td><a href = "https://github.com/ignatiev-ignatiev/personaldan">Защита персональных данных клиентов</a></td>
 
   <td>Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.</td>
-  <td>Стек </td>
+  <td>pandas, scikit-learn,numpy </td>
 </tr>
 </table>
 </details>
