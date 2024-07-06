@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 </tr> 
 
 <tr>
-    <td><a href = "https://github.com/">Анализ рейтинга и успешности игровых жанров</a></td>
+    <td><a href = "https://github.com/ignatiev-ignatiev/selectgame">Анализ рейтинга и успешности игровых жанров</a></td>
  
   <td>Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании </td>
   <td>python, pandas, matplotlib, seaborn, scipy</td>
