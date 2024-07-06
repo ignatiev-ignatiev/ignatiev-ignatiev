@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/ignatiev-ignatiev/zaim">Исследование объявлений о продаже квартир</a></td>
+    <td><a href = "https://github.com/ignatiev-ignatiev/saleroom/blob/main/saleroom.ipynb">Исследование объявлений о продаже квартир</a></td>
 
   <td>Нужно научиться определять рыночную стоимость объектов недвижимости</td>
   <td>python, pandas,matplotlib </td>
