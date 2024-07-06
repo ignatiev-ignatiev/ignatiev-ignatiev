@@ -157,10 +157,10 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/">Определение возраста покупателей</a></td>
+    <td><a href = "https://github.com/ignatiev-ignatiev/vozrasst">Определение возраста покупателей</a></td>
 
-  <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
-  <td>Стек </td>
+  <td>Постройте модель, которая по фотографии определит приблизительный возраст человека</td>
+  <td>python,keras </td>
 </tr>
 
 <tr>
