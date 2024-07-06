@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
   <td>python, pandas, matplotlib, scikit-learn, catboost, prophet </td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/">Определение стоимости автомобилей</a></td>
+  <td><a href = "https://github.com/ignatiev-ignatiev/avtoprobeg">Определение стоимости автомобилей</a></td>
  
   <td>Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.</td>
   <td>python, pandas, scikit-learn, pipeline, catboost, lightgbm, numpy </td>
