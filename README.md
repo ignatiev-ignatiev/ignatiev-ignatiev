@@ -150,10 +150,10 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/">Рекомендация тарифов</a></td>
+    <td><a href = "https://github.com/ignatiev-ignatiev/rectarif">Рекомендация тарифов</a></td>
   
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
-  <td>Стек </td>
+  <td> python, pandas,matplotlib,numpy,scipy </td>
 </tr>
 
 <tr>
