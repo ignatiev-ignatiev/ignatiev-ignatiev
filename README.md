@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/ignatiev-ignatiev/tariftelecom>Определение перспективного тарифа для телеком-компании"</a></td>
+    <td><a href = "https://github.com/ignatiev-ignatiev/tariftelecom">Определение перспективного тарифа для телеком-компании</a></td>
  
   <td>Вам предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов</td>
   <td>python, pandas,matplotlib,numpy,scipy </td>
