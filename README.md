@@ -108,10 +108,10 @@ You can click the Preview link to take a look at your changes.
   <td>python, pandas, scikit-learn, pipeline, catboost, lightgbm, numpy </td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/">Выбор локации для скважины</a></td>
+  <td><a href = "https://github.com/ignatiev-ignatiev/skvagina">Выбор локации для скважины</a></td>
   
   <td>Нужно решить, где бурить новую нефтяную скважину для получения наибольшей прибыли</td>
-  <td>Стек </td>
+  <td>python, pandas, scikit-learn,бутстреп </td>
 </tr>
 
 <tr>
