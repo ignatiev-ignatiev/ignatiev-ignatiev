@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/">Прогнозирование заказов такси</a></td>
+  <td><a href = "https://github.com/ignatiev-ignatiev/taxi">Прогнозирование заказов такси</a></td>
  
   <td>Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.</td>
   <td>python, pandas, matplotlib, scikit-learn, catboost, prophet </td>
