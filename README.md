@@ -115,10 +115,10 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/">Восстановление золота из руды</a></td>
+  <td><a href = "https://github.com/ignatiev-ignatiev/zolotoruda">Восстановление золота из руды</a></td>
  
   <td>Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Используйте данные с параметрами добычи и очистки.</td>
-  <td>Стек </td>
+  <td>python, pandas, scikit-learn,numpy, matplotlib </td>
 </tr>
 
 <tr>
