@@ -24,8 +24,9 @@ You can click the Preview link to take a look at your changes.
   <th>Описание</th>
   <th>Стек проекта</th>
 </tr> 
-<tr>
-  <td><a href = "https://github.com/ignatiev-ignatiev/prognozotok"</a></td>
+<tr> 
+  <td><a href = "https://github.com/ignatiev-ignatiev/prognozotok"> Прогноз оттока клиентов </a></td>
+  
  
   <td>Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Для этого его сотрудники начнут предлагать промокоды и специальные условия всем, кто планирует отказаться от услуг связи. </td>
   <td> python, pandas, matplotlib,scikit-learn</td>
